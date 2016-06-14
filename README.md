@@ -11,6 +11,7 @@
 * jQuery
 
 
+#### Use As You Like, Give Credit if You Can!
 #### License
 Copyright 2016 Vardaan Sharma
 
